@@ -1,6 +1,6 @@
 {
   "name": "easy-folderator",
-  "description": "Easy injector inspired by angularjs",
+  "description": "An easy way to automatically include and name modules in subdirectories.",
   "version": "0.0.1",
   "author": "Jesse Earle <jesse@littlebigberry.com>",
   "contributors": [
@@ -28,7 +28,7 @@
     "app",
     "api"
   ],
-  "repository": "git://github.com/littlebigberry/easy-injector",
+  "repository": "git://github.com/littlebigberry/easy-folderator",
   "main": "index",
   "scripts": {
     "test": "./node_modules/.bin/mocha"
