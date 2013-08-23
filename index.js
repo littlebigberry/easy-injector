@@ -1,1 +1,1 @@
-module.exports = require('./lib/easy-injector')
+module.exports = require('./lib/easy-folderator');
